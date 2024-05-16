@@ -1,0 +1,22 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "welcoming to marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethanlr26/welcome-npm.git"
+  },
+  "keywords": [
+    "marketplace"
+  ],
+  "author": "navaneethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navaneethanlr26/welcome-npm/issues"
+  },
+  "homepage": "https://github.com/navaneethanlr26/welcome-npm#readme"
+}
